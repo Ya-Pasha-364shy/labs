@@ -1,0 +1,6 @@
+﻿  lab5_part1.cpp
+C:\Users\user\source\repos\lab5_part1\lab5_part1\lab5_part1.cpp(45,35): error C2664: "Ierror::Ierror(Ierror &&)": невозможно преобразовать аргумент 1 из "int" в "const std::string &"
+C:\Users\user\source\repos\lab5_part1\lab5_part1\lab5_part1.cpp(45,35): message : Причина: невозможно преобразовать "int" в "const std::string"
+C:\Users\user\source\repos\lab5_part1\lab5_part1\lab5_part1.cpp(45,35): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+C:\Users\user\source\repos\lab5_part1\lab5_part1\lab5_part1.cpp(18,5): message : см. объявление "Ierror::Ierror"
+C:\Users\user\source\repos\lab5_part1\lab5_part1\lab5_part1.cpp(51,9): warning C4286: std::bad_alloc &: перехвачено базовым классом ("std::exception &") в строке 47
