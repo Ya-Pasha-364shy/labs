@@ -1,0 +1,9 @@
+DEFINE a 7.6
+DEFINE b 7.5
+PUSH a
+PUSH b
++
+PRINT
+SQRT
+PRINT
+0
