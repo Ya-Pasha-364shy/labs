@@ -1,0 +1,12 @@
+﻿  myIntegration1.cpp
+C:\Users\user\source\repos\myIntegration1\myIntegration1\myIntegration1.cpp(235,42): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\user\source\repos\myIntegration1\myIntegration1\myIntegration1.cpp(235,22): warning C4244: return: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+  myIntegration1.vcxproj -> C:\Users\user\source\repos\myIntegration1\Debug\myIntegration1.exe
