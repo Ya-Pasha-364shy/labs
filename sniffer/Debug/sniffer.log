@@ -1,0 +1,8 @@
+﻿  sniffer.cpp
+C:\Users\user\source\repos\sniffer\sniffer\sniffer.cpp(298,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\source\repos\sniffer\sniffer\sniffer.cpp(315,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\source\repos\sniffer\sniffer\sniffer.cpp(385,30): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\user\source\repos\sniffer\sniffer\sniffer.cpp(386,30): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\user\source\repos\sniffer\sniffer\sniffer.cpp(604,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\source\repos\sniffer\sniffer\sniffer.cpp(547): warning C4715: start: значение возвращается не при всех путях выполнения
+  sniffer.vcxproj -> C:\Users\user\source\repos\sniffer\Debug\sniffer.exe
